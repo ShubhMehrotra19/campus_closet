@@ -6,7 +6,7 @@ const products = [
     category: "Lehenga Sets",
     price: "200",
     description: "Beautiful embroidered maroon lehenga perfect for festivals",
-    image: "./public/lehnga-choli.jpg",
+    image: "lehnga-choli.jpg",
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ const products = [
     price: "200",
     description:
       "Stunning golden blouse with intricate embroidery and shell details",
-    image: "./public/blouse.jpg",
+    image: "blouse.jpg",
   },
   {
     id: 3,
@@ -23,7 +23,7 @@ const products = [
     category: "Skirts",
     price: "200",
     description: "Traditional bandhani printed flowing skirt in dark tones",
-    image: "./public/long-skirt.jpg",
+    image: "long-skirt.jpg",
   },
   {
     id: 4,
@@ -32,7 +32,7 @@ const products = [
     price: "200",
     description:
       "Elegant purple saree with colorful border perfect for celebrations",
-    image: "./public/complete-set.jpg",
+    image: "complete-set.jpg",
   },
   {
     id: 5,
@@ -40,7 +40,7 @@ const products = [
     category: "Dresses",
     price: "200",
     description: "Flowy black maxi dress for elegant evening occasions",
-    image: "./public/long-skirt2.jpg",
+    image: "long-skirt2.jpg",
   },
 ];
 
